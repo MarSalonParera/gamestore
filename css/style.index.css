@@ -29,7 +29,7 @@
 }
 
 /* Media query para dispositivos con un ancho máximo de 768px (tablet) */
-@media only screen and (max-width: 768px) {
+@media only screen and (max-width: 78px) {
     .column3 {
         flex: 0 0 100%; /* Cambiar el ancho para que quepan dos elementos por fila */
     }
