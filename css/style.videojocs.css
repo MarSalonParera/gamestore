@@ -18,7 +18,7 @@ h1 {
 
 body {
     background-color: #d00c0c7c;
-    background-image: url(../img/fondo.jpg);
+    background-image: url(./img/fondo.jpg);
     background-size: cover;
     padding-bottom: 20px;
 }
